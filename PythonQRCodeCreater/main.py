@@ -7,3 +7,5 @@ code.add_data("neganwashere")
 code.make(fit=True)
 image = code.make_image(fill_color=(12,123,66),back_color="white")
 image.save("qrcode.png")
+
+#######
